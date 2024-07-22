@@ -9,7 +9,7 @@
 }
 @media(max-width:414px){
   .video-js{
-    right: 15px;
+    right: 20px;
     width: 250px;
     height: 390px;
   }
